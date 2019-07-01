@@ -1,0 +1,4 @@
+#Mon Jul 01 14:11:08 SGT 2019
+base.0=C\:\\Users\\taruc\\AndroidStudioProjects\\android-advanced-starter-apps\\SongDetail_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
